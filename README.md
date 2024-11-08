@@ -9,8 +9,8 @@ Overview of the client’s interest in launching a new credit card in the Indian
 Assess market potential, design product features, analyze profitability, and recommend a go-to-market strategy.
 <br><br>
 <h4>Process Followed:</h4>
-1. Understand more about the indian market.
-2. Need to design the product.
-3. Understand the business protability.
-4. Define the distribution and Go-To market strategy.
+1. Understand more about the indian market.<br>
+2. Need to design the product.<br>
+3. Understand the business protability.<br>
+4. Define the distribution and Go-To market strategy.<br>
 5. Draft the implemantation roadmap.
